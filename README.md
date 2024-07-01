@@ -1,2 +1,2 @@
 # sentiment-analysis
-Spring Boot application that performs sentiment analysis on customer comments.
+Spring Boot API that performs sentiment analysis on customer comments.
